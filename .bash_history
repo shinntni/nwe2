@@ -355,3 +355,8 @@ cd ~
 git init
 touch sample
 git add gitsample
+git add .
+git commit -m "first commmit"
+got log
+git log
+touch sample2.txt
